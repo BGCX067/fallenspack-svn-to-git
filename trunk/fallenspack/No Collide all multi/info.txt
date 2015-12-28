@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"No-Collide all multi"
+	"version"			"1.0"
+	"up_date"			"00/00/00"
+	"author_name"			"Fallens tools"
+	"author_email"			""
+	"author_url"			""
+	"info"				""
+	"override"			"1"
+}

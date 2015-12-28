@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Drag Enabler/Disabler"
+	"version"			"1.0"
+	"up_date"			"00/00/00"
+	"author_name"			"TGiFallen"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Use this to Enable or Disable drag on a tool"
+	"override"			"1"
+}
